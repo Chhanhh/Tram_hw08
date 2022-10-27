@@ -1,0 +1,20 @@
+table {
+    border: 1px color solid black;
+}
+
+td {
+    border: thin solid black
+}
+
+div {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+th {
+    background-color: lightgray;
+}
+
+p {
+    font-family: "calibri";
+}
